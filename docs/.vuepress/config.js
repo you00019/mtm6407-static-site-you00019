@@ -21,4 +21,5 @@ export default {
       },
     ],
   }),
+  base: "/mtm6407-static-site-you00019/",
 };

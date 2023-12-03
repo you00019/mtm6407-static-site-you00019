@@ -1,11 +1,11 @@
-import clientConfig0 from '/Users/jia/Desktop/1130/mtm6407-static-site-your-github-you00019/node_modules/@vuepress/plugin-active-header-links/lib/client/config.js'
-import clientConfig1 from '/Users/jia/Desktop/1130/mtm6407-static-site-your-github-you00019/node_modules/@vuepress/plugin-back-to-top/lib/client/config.js'
-import clientConfig2 from '/Users/jia/Desktop/1130/mtm6407-static-site-your-github-you00019/node_modules/@vuepress/plugin-external-link-icon/lib/client/config.js'
-import clientConfig3 from '/Users/jia/Desktop/1130/mtm6407-static-site-your-github-you00019/node_modules/@vuepress/plugin-medium-zoom/lib/client/config.js'
-import clientConfig4 from '/Users/jia/Desktop/1130/mtm6407-static-site-your-github-you00019/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
-import clientConfig5 from '/Users/jia/Desktop/1130/mtm6407-static-site-your-github-you00019/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
-import clientConfig6 from '/Users/jia/Desktop/1130/mtm6407-static-site-your-github-you00019/node_modules/@vuepress/theme-default/lib/client/config.js'
-import clientConfig7 from '/Users/jia/Desktop/1130/mtm6407-static-site-your-github-you00019/docs/.vuepress/client.ts'
+import clientConfig0 from '/Users/jia/Desktop/1203/mtm6407-static-site-you00019/node_modules/@vuepress/plugin-active-header-links/lib/client/config.js'
+import clientConfig1 from '/Users/jia/Desktop/1203/mtm6407-static-site-you00019/node_modules/@vuepress/plugin-back-to-top/lib/client/config.js'
+import clientConfig2 from '/Users/jia/Desktop/1203/mtm6407-static-site-you00019/node_modules/@vuepress/plugin-external-link-icon/lib/client/config.js'
+import clientConfig3 from '/Users/jia/Desktop/1203/mtm6407-static-site-you00019/node_modules/@vuepress/plugin-medium-zoom/lib/client/config.js'
+import clientConfig4 from '/Users/jia/Desktop/1203/mtm6407-static-site-you00019/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
+import clientConfig5 from '/Users/jia/Desktop/1203/mtm6407-static-site-you00019/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
+import clientConfig6 from '/Users/jia/Desktop/1203/mtm6407-static-site-you00019/node_modules/@vuepress/theme-default/lib/client/config.js'
+import clientConfig7 from '/Users/jia/Desktop/1203/mtm6407-static-site-you00019/docs/.vuepress/client.ts'
 
 export const clientConfigs = [
   clientConfig0,
